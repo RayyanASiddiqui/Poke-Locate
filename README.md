@@ -1,5 +1,5 @@
 # Poke-Locate
-A work in progress Python script that aims to make finding Pokemon for players aiming to collect them quicker and easier.
+A work in progress Python script that quickly lists out all locations and games players can find any Pokemon in.
 
 Currently, it is a basic script that lists out all the locations and games you can find a Pokemon in after inputting in the name. It only goes up till the Generation 8 of games as that is all PokeAPI has avaiable.
 
